@@ -1,5 +1,5 @@
 # CSES Problem Set Solutions
-## SOLVED BY ME {WILL UPDATE REGULARLY}
+## SOLVED BY ME - Under Progress
 This repository contains my solutions to the problems from the CSES Problem Set on [CSES.fi](https://cses.fi/problemset/). The CSES Problem Set is a collection of competitive programming problems that cover various topics and difficulty levels.
 
 ## About CSES Problem Set
